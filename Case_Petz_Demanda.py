@@ -10,6 +10,8 @@
 # MAGIC Olhar a estrutura dos dados, acurácia e consistência
 # MAGIC Rodar testes e pilotos 
 # MAGIC Avaliar o resumo estatistico
+# MAGIC 
+# MAGIC # Resumo:
 
 # COMMAND ----------
 
